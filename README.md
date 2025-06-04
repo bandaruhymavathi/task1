@@ -1,4 +1,5 @@
-OUTPUT
+# Task1-PORTFOLIO WEBSITE WITH ADVANCED ANIMATIONS
+# OUTPUT
 ![image](https://github.com/user-attachments/assets/29247674-ff2e-4ddf-b2d5-506a5724d16c)
 ![image](https://github.com/user-attachments/assets/c3826f4f-6202-48d6-9d0f-ca39c5353ba4)
 ![image](https://github.com/user-attachments/assets/39c2f395-13e2-40da-83d3-5898bf260a9f)
